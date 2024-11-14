@@ -1,0 +1,9 @@
+fr_aryl_methyl
+PEOE_VSA13
+BCUT2D_MRHI
+VSA_EState1
+fr_halogen
+PEOE_VSA4
+fr_NH0
+BCUT2D_MWHI
+PEOE_VSA8
